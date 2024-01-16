@@ -1,1 +1,1 @@
-# web-devlopment-1st-year-CD23013
+# web-development-1st-year-CD23013
